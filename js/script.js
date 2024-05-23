@@ -1,4 +1,4 @@
-// Created by: Clara Tyman
+// Created by: Clara
 // Created on: May 2024
 // This file contains the JS functions for index.html
 
